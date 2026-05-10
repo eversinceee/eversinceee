@@ -7,17 +7,15 @@
 > clean code + cyber aesthetics
 ````
 
-software engineering student exploring systems, cybersecurity and everything behind how technology really works.
+software engineer exploring systems, cybersecurity and everything behind how technology really works.
 
 i like creating projects, understanding infrastructures and spending hours turning ideas into code.
 
 always learning, improving and building something new.
 
-```txt
+```txt id="7l6rqq"
 terminal. music. code.
 ```
 
 ```
 ```
-
-
