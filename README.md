@@ -11,7 +11,6 @@ software engineer exploring systems, cybersecurity and everything behind how tec
 
 i like creating projects, understanding infrastructures and spending hours turning ideas into code.
 
-always learning, improving and building something new.
 
 ```txt id="7l6rqq"
 terminal. music. code.
